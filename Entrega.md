@@ -18,6 +18,6 @@ Nome: René Gargano Ferrari
 
 ### Referências
 - WikiChip. Core i7-6500U - Intel. https://en.wikichip.org/wiki/intel/core_i7/i7-6500u.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
+- Programa utilizado para realizar o HPL. Linx. https://linx.en.lo4d.com/windows.
 - Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
 - ...
